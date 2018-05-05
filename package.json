@@ -1,0 +1,23 @@
+{
+  "name": "mcolor1",
+  "version": "1.0.0",
+  "description": "material color 1",
+  "main": "mcolor1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/mcolor1.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/mcolor1/issues"
+  },
+  "homepage": "https://github.com/hfu/mcolor1#readme",
+  "dependencies": {
+    "d3-color": "^1.1.0",
+    "material-colors": "^1.2.5"
+  }
+}
